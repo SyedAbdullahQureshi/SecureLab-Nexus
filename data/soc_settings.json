@@ -1,8 +1,0 @@
-{
-  "tick_ms": 1100,
-  "alert_intensity": 78.0,
-  "risk_sensitivity": 18,
-  "profile": "Incident Mode",
-  "pulse_speed": "aggressive",
-  "pulse_auto": true
-}

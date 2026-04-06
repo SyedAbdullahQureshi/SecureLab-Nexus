@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE/local settings
+.vscode/
+.idea/
+
+# Runtime-generated data (sensitive or machine-local)
+data/activity_log.json
+data/users.json
+data/soc_settings.json
+
+# OS noise
+.DS_Store
+Thumbs.db
