@@ -16,25 +16,25 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [Problem Statement](#2-problem-statement)
-3. [Objectives](#3-objectives)
-4. [Scope and Delimitations](#4-scope-and-delimitations)
-5. [Methodology](#5-methodology)
-6. [System Architecture Summary](#6-system-architecture-summary)
-7. [Implementation Highlights](#7-implementation-highlights)
-8. [Testing and Validation](#8-testing-and-validation)
-9. [Results and Outcomes](#9-results-and-outcomes)
-10. [Discussion](#10-discussion)
-11. [Conclusion](#11-conclusion)
-12. [Recommendations and Future Work](#12-recommendations-and-future-work)
-13. [References](#13-references)
-14. [Appendix Guidance](#14-appendix-guidance)
-15. [Extended Technical Appendices](#appendix-a-extended-technical-documentation)
+1. [Abstract](#abstract)
+2. [Keywords](#keywords)
+3. [Introduction](#1-introduction)
+4. [Problem Statement](#2-problem-statement)
+5. [Objectives](#3-objectives)
+6. [Scope and Delimitations](#4-scope-and-delimitations)
+7. [Methodology](#5-methodology)
+8. [System Architecture Summary](#6-system-architecture-summary)
+9. [Implementation Highlights](#7-implementation-highlights)
+10. [Testing and Validation](#8-testing-and-validation)
+11. [Results and Outcomes](#9-results-and-outcomes)
+12. [Discussion](#10-discussion)
+13. [Conclusion](#11-conclusion)
+14. [Recommendations and Future Work](#12-recommendations-and-future-work)
+15. [References](#13-references)
+16. [Appendix Guidance](#14-appendix-guidance)
+17. [Extended Technical Appendices](#appendix-a-extended-technical-documentation)
 
 ---
-
-## University Submission Version
 
 ## Abstract
 
