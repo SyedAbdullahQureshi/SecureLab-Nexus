@@ -2,15 +2,26 @@
 
 ## Title Page
 
-**Project Title:** SecureLab Nexus - Integrated Cybersecurity Desktop Platform  
-**Report Type:** Academic Project Report  
-**Course:** [Insert Course Name]  
-**Department:** [Insert Department Name]  
-**Institution:** [Insert University/Institute Name]  
-**Submitted By:** [Insert Student Name]  
-**Roll Number:** [Insert Roll Number]  
-**Supervisor:** [Insert Supervisor Name]  
-**Submission Date:** April 2026
+<div align="center">
+
+# SecureLab Nexus
+
+### Integrated Cybersecurity Desktop Platform
+
+**Academic Project Report**
+
+**Course:** Information Security  
+**Department:** Computer Science  
+**Institute:** Comsats University Islamabad
+
+**Submitted By:**  
+Abdullah FA24-BCS-300  
+Mahad Asif FA24-BCS-259
+
+**Supervisor:** Ma'am Nusra Rehman  
+**Submission Date:** 09 April 2026
+
+</div>
 
 ---
 
