@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "2026-04-02 11:46:23",
+    "user": "guest",
+    "action": "SIGNUP",
+    "detail": "Username must be at least 3 characters long."
+  },
+  {
+    "timestamp": "2026-04-02 11:46:27",
+    "user": "guest",
+    "action": "SIGNUP",
+    "detail": "Username must be at least 3 characters long."
+  },
+  {
+    "timestamp": "2026-04-02 11:46:28",
+    "user": "guest",
+    "action": "SIGNUP",
+    "detail": "Username must be at least 3 characters long."
+  },
+  {
+    "timestamp": "2026-04-02 11:47:12",
+    "user": "guest",
+    "action": "SIGNUP",
+    "detail": "Signup successful. You can now login."
+  },
+  {
+    "timestamp": "2026-04-02 11:47:16",
+    "user": "guest",
+    "action": "SIGNUP",
+    "detail": "Username must be at least 3 characters long."
+  },
+  {
+    "timestamp": "2026-04-02 11:47:17",
+    "user": "guest",
+    "action": "SIGNUP",
+    "detail": "Username must be at least 3 characters long."
+  },
+  {
+    "timestamp": "2026-04-02 11:47:38",
+    "user": "syed.abdullah",
+    "action": "LOGIN",
+    "detail": "syed.abdullah logged in"
+  },
+  {
+    "timestamp": "2026-04-02 11:48:08",
+    "user": "syed.abdullah",
+    "action": "KEYGEN",
+    "detail": "Generated random secure key"
+  },
+  {
+    "timestamp": "2026-04-02 11:48:19",
+    "user": "syed.abdullah",
+    "action": "ENCRYPT",
+    "detail": "Encrypted message with AES-GCM"
+  },
+  {
+    "timestamp": "2026-04-02 12:17:13",
+    "user": "guest",
+    "action": "INTEGRITY_BASELINE",
+    "detail": "Generated baseline hash"
+  },
+  {
+    "timestamp": "2026-04-02 12:17:16",
+    "user": "guest",
+    "action": "INTEGRITY_CHECK",
+    "detail": "PASS"
+  },
+  {
+    "timestamp": "2026-04-02 12:17:18",
+    "user": "guest",
+    "action": "INTEGRITY_CHECK",
+    "detail": "PASS"
+  },
+  {
+    "timestamp": "2026-04-02 12:17:27",
+    "user": "guest",
+    "action": "INTEGRITY_BASELINE",
+    "detail": "Generated baseline hash"
+  },
+  {
+    "timestamp": "2026-04-02 12:20:17",
+    "user": "guest",
+    "action": "ENCRYPT",
+    "detail": "Encrypted message with AES-GCM"
+  },
+  {
+    "timestamp": "2026-04-02 12:20:20",
+    "user": "guest",
+    "action": "ENCRYPT",
+    "detail": "Encrypted message with AES-GCM"
+  },
+  {
+    "timestamp": "2026-04-02 12:20:21",
+    "user": "guest",
+    "action": "ENCRYPT",
+    "detail": "Encrypted message with AES-GCM"
+  },
+  {
+    "timestamp": "2026-04-02 12:20:22",
+    "user": "guest",
+    "action": "ENCRYPT",
+    "detail": "Encrypted message with AES-GCM"
+  },
+  {
+    "timestamp": "2026-04-02 12:20:24",
+    "user": "guest",
+    "action": "ENCRYPT",
+    "detail": "Encrypted message with AES-GCM"
+  },
+  {
+    "timestamp": "2026-04-02 12:20:58",
+    "user": "guest",
+    "action": "ENCRYPT",
+    "detail": "Encrypted message with AES-GCM"
+  },
+  {
+    "timestamp": "2026-04-02 12:21:14",
+    "user": "guest",
+    "action": "ENCRYPT_FILE",
+    "detail": "C:\\Users\\Danger_Zone\\Documents\\1.txt.enc"
+  }
+]
